@@ -5,9 +5,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <image src = ""></image>
+      <image src = "-/imgs/Screenshot 2022-06-28 101742.png"></image>
     </div>
   );
 }
+
 
 export default App;
