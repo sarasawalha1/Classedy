@@ -1,13 +1,21 @@
+import React from 'react';
+import logo from './logo.svg';
 import './App.css';
-import React from 'react'
+
 function App() {
   return (
     <div className="App">
+
         <p>hi</p>
         <NavBar></NavBar>
+
+      <image src = "-/imgs/Screenshot 2022-06-28 101742.png"></image>
+      <h1> Classedy</h1>
+
     </div>
   );
 }
+
 
 class NavBar extends React.Component{
   render(){
