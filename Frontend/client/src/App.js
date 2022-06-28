@@ -8,7 +8,7 @@ function App() {
   );
 }
 
-class NavBar extends react.component{
+class NavBar extends React.Component{
   render(){
   return(
   <><div class="topnav">
